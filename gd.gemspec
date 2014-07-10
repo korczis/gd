@@ -34,4 +34,5 @@ lib/mailer.rb
   s.add_dependency('i18n')
   s.add_dependency('salesforce')
   s.add_dependency('pony')
+  s.add_dependency('iconv')
 end

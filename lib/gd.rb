@@ -1,10 +1,13 @@
+require 'rubygems'
+require 'bundler/setup'
+
 require 'active_support/core_ext/hash'
 require 'gooddata'
 require 'pp'
 require 'logger'
 require 'rainbow'
 require 'highline/import'
-require 'salesforce'
+# require 'salesforce'
 require 'pony'
 require 'templater'
 
